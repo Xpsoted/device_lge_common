@@ -1,0 +1,8 @@
+[
+  {
+    "repository" : "CorvusRom-Devices/hardware_lge",
+    "target_path": "hardware/lge",
+    "branch"     : "master",
+    "remote"     : "github"
+  }
+]
